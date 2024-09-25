@@ -1,2 +1,2 @@
 Convertidor de imágenes en formato JPG a WEBP.
-Python
+Encontrarás el ejecutable en la carpeta dist.
